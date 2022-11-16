@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <biblio>
-	<titre>Perfectionnemnt PHP</titre>
-	<auteur>Sultan</auteur>
-    <date>2020</date>
-</biblio>
+<voiture_list>
+    <voiture>
+        <titre>Perfectionnemnt PHP</titre>
+	    <auteur>Sultan</auteur>
+        <date>Novembre 2022</date>
+    </voiture>
+
+    <voiture>
+        <titre>Perfectionnemnt PHP</titre>
+	    <auteur>Sultan</auteur>
+        <date>Novembre 2022</date>
+    </voiture>
+
+
+	
+</voiture_list>
