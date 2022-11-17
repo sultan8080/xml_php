@@ -12,7 +12,7 @@
 </html>
 <?php
 echo"<h1 align=center>PHP et les fichiers XML</h1>";
-$xml=simplexml_load_file("voiture.xml");
+$xml=simplexml_load_file("bib.xml");
 ?>
 <h1 align="center">Liste des mes voitures</h1>
 <table align="center" class="table table-dark table-striped">

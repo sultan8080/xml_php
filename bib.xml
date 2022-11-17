@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblio>
+
+    <livres>
+        <livre nbrjours="5" lieu="en ligne">
+            <titre>Perfectionnemnt PHP</titre>
+            <auteur>Mohamed Amine MEZGHICH</auteur>
+            <date>Novembre 2022</date>
+        </livre>
+
+        <livre nbrjours="5" lieu="presentiel">
+            <titre>HTML CSS JS</titre>
+            <auteur>Mohamed Amine MEZGHICH</auteur>
+            <date>Octobre 2022</date>
+        </livre>
+
+        <livre nbrjours="3" lieu="en ligne">
+            <titre>Symfony</titre>
+            <auteur>Aymen Sellaouti</auteur>
+            <date>Novembre 2022</date>
+        </livre>
+    </livres>
+
+    <voitures>
+        <voiture>
+            <marque>BMV</marque>
+            <modele>X6</modele>
+            <immatriculation>12CD123</immatriculation>
+            <prix>20000</prix>
+        </voiture>
+
+        <voiture>
+            <marque>MERCEDES</marque>
+            <modele>CLASSE A</modele>
+            <immatriculation>12CD1J23</immatriculation>
+            <prix>28000</prix>
+        </voiture>
+    </voitures>
+
+</biblio>

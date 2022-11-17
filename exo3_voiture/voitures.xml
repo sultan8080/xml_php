@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voitures>
+<voiture>
+<marque>BMW</marque>
+<modele>X5</modele>
+<prix>12000</prix>
+</voiture>
+
+<voiture>
+<marque>MERCREDES</marque>
+<modele>Class A</modele>
+<prix>20000</prix>
+</voiture>
+
+<voiture>
+<marque>Renault</marque>
+<modele>Clio 3</modele>
+<prix>8000</prix>
+</voiture>
+
+<voiture>
+<marque>Renault</marque>
+<modele>Clio 3</modele>
+<prix>8000</prix>
+</voiture>
+
+<voiture>
+<marque>Toyota</marque>
+<modele>CHR</modele>
+<prix>25000</prix>
+</voiture>
+</voitures>
